@@ -1,5 +1,5 @@
 # Licenses
-Copyright (c) 2026 Lotekk
+Copyright (c) 2026 LoTekk
 
 All rights reserved.
 
