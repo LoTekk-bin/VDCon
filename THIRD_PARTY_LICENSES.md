@@ -1,8 +1,9 @@
-This project includes the ViGEmBus (Virtual Gamepad Emulation Framework).
-ViGEmBus is licensed under the BSD 3-Clause License.
-Copyright (c) Nefarius Software Solutions e.U.
-
-The full license text is provided below:
+# Third-Party Licenses
+## ViGEmBus (Virtual Gamepad Emulation Framework)
+Licensed under the BSD 3-Clause License  
+Copyright (c) 2016-2020, Nefarius Software Solutions e.U.
+---
+[Full License Text Below]
 BSD 3-Clause License
 
 Copyright (c) 2016-2020, Nefarius Software Solutions e.U.
