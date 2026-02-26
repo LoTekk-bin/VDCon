@@ -5,7 +5,7 @@
 ![VDCon-Animation](https://github.com/user-attachments/assets/3ab694b2-6c7e-47d6-956a-3c1d706ffd84)
 
 ---
-# It offers the possibility to display the OBS virtual camera.
+#It can display the OBS virtual camera.
 OBS must be installed separately for this.
 Here is the link to the official OBS website: https://obsproject.com
 
