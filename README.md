@@ -24,7 +24,7 @@ https://github.com/nefarius/ViGEmBus/releases
 
 # It can display the OBS virtual camera.
 
-OBS must be started separately. By activating the OBS virtual camera, you can see the OBS canvas in VDCon. This allows you to improve the UI of local multiplayer games with OBS, giving your friends a better user experience. For example, in combination with Parsec.
+OBS must be started separately. By activating the OBS virtual camera, you can see the OBS canvas in VDCon. This allows you to improve the UI of local multiplayer games with OBS, giving your friends a better user experience. For example, in combination with Parsec a Remote desktop program.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dac0058d-617d-4201-9968-08a0ef5fb387" />
 
