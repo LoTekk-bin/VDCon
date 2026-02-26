@@ -1,4 +1,4 @@
-# VDCon / Virtual Device Controller
+# VDCon
 ---
 # Virtual Device Controller or VDCon is a lightweight controller remapping tool with OBS canvas integration.
 
