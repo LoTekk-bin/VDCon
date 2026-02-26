@@ -1,4 +1,4 @@
 First install this    https://github.com/nefarius/ViGEmBus/releases
 Then this             https://github.com/obsproject/obs-studio/releases
-And this of course    https://github.com/LoTekk-bin/VDCon/releases 
+And this of course    https://github.com/LoTekk-bin/VDCon/releases
 done...
