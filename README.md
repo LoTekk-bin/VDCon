@@ -11,17 +11,16 @@ Here you can manage and emulate up to four virtual gamepads.
 
 <img width="699" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2c49d1c-cf58-4fa4-bed6-6e818035d2e6" />
 
+Only some parts of the UI are currently usable and will be made functional in future updates.
+
+<img width="636" height="981" alt="image" src="https://github.com/user-attachments/assets/1bfa47cf-a2e9-4e0e-9034-c605678bfe65" />
+
 ---
 # And it offers the possibility to display the OBS virtual camera.
 OBS must be installed separately for this.
 Here is the link to the official OBS website: https://obsproject.com
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dac0058d-617d-4201-9968-08a0ef5fb387" />
-
-Only some parts of the UI are currently usable and will be made functional in future updates.
-
-<img width="636" height="981" alt="image" src="https://github.com/user-attachments/assets/1bfa47cf-a2e9-4e0e-9034-c605678bfe65" />
-
 
 Currently, only an aspect ratio of 16:9 is properly supported.
 
