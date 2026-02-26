@@ -5,11 +5,21 @@
 ![VDCon-Animation](https://github.com/user-attachments/assets/3ab694b2-6c7e-47d6-956a-3c1d706ffd84)
 
 ---
+# It can emulate a virtual gamepad with Nefarius ViGEm.
+
+The VigemBus driver must be installed to enable controller emulation. If you are using DS4Windows or Handheld Companion, you most likely already have VigemBus installed and can skip the installation.
+
+Here is the link to the official ViGEmBus Github:
+
+https://github.com/nefarius/ViGEmBus/releases
+---
 # It can display the OBS virtual camera.
 
 OBS must be installed separately for this.
 
-Here is the link to the official OBS website: https://obsproject.com
+Here is the link to the official OBS website: 
+https://github.com/obsproject/obs-studio/releases
+https://obsproject.com
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dac0058d-617d-4201-9968-08a0ef5fb387" />
 
