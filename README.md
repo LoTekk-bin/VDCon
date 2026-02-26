@@ -56,5 +56,5 @@ To use the F10 key on your keyboard, you first have to press the F10 button in t
 
 ---
 
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/c4ed1b16-e389-40dc-9a42-11b225f41f18" />
+<img width="220" height="220" alt="image" src="https://tenor.com/de/view/mxstery-gif-3986214086668732285" />
 
