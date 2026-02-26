@@ -18,10 +18,10 @@ Here is the link to the official OBS website: https://obsproject.com
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dac0058d-617d-4201-9968-08a0ef5fb387" />
 
+Currently, only an aspect ratio of 16:9 is properly supported.
 To integrate OBS, all you need to do is start the virtual camera.
 
-<img width="206" height="264" alt="image" src="https://github.com/user-attachments/assets/cc69a624-81d0-486d-9fc6-441cfa4ce5fa" />
-
+<img width="208" height="259" alt="image" src="https://github.com/user-attachments/assets/3ff91d0a-fec7-43d2-b4c0-b1427955fe69" />
 
 ---
 in arbeit
