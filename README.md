@@ -6,7 +6,9 @@
 
 ---
 #It can display the OBS virtual camera.
+
 OBS must be installed separately for this.
+
 Here is the link to the official OBS website: https://obsproject.com
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dac0058d-617d-4201-9968-08a0ef5fb387" />
