@@ -9,7 +9,7 @@
 # It has a simple to use user interface.
 Here you can manage and emulate up to four virtual gamepads.
 
-<img width="699" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2c49d1c-cf58-4fa4-bed6-6e818035d2e6" />
+<img width="634" height="979" alt="image" src="https://github.com/user-attachments/assets/5fc28d8f-a6fa-4017-b3dc-24f7318250be" />
 
 Only some parts of the UI are currently usable and will be made functional in future updates.
 
