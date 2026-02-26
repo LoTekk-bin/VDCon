@@ -8,6 +8,9 @@ It is primarily designed to optimize lokal multiplayer streaming scenarios with 
 
 ![VDCon-Animation](https://github.com/user-attachments/assets/3ab694b2-6c7e-47d6-956a-3c1d706ffd84)
 
+You don't have an idea for a use case for VDCon? Take a look here:
+https://github.com/LoTekk-bin/VDCon/blob/main/VDCon_Examples_README.md
+
 ---
 
 # It can emulate a virtual gamepad with Nefarius ViGEm.
