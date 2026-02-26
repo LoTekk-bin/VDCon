@@ -45,6 +45,7 @@ To integrate OBS, all you need to do is start the virtual camera.
 Here you can manage and emulate up to four virtual gamepads.
 
 <img width="634" height="979" alt="image" src="https://github.com/user-attachments/assets/5fc28d8f-a6fa-4017-b3dc-24f7318250be" />
+
 ![VDCon-Con](https://github.com/user-attachments/assets/7ef0b9a1-4849-4a6c-8d59-9cae6ece5a30)
 
 Only some parts of the UI are currently usable and will be made functional in future updates.
