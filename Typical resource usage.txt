@@ -2,4 +2,4 @@ Typical resource usage ranges between
 0.5–1.5% CPU and 10–15 MB RAM 
 under normal operating conditions 
 (tested on a standard Windows system 
-with active virtual controllers).
+with active virtual controllers). 
