@@ -48,7 +48,7 @@ Here you can manage and emulate up to four virtual gamepads.
 
 The controller displays the output from the virtual gamepad, which is currently still a 1:1 representation because the profile system is not yet integrated.
 
-![VDCon-Con](https://github.com/user-attachments/assets/7ef0b9a1-4849-4a6c-8d59-9cae6ece5a30)
+![VDCon-Con](https://github.com/user-attachments/assets/38048125-d3b5-4b7c-acdf-631b9280f6ce)
 
 Only some parts of the UI are currently usable and will be made functional in future updates.
 
