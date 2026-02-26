@@ -12,6 +12,8 @@
 
 The VigemBus driver must be installed to enable controller emulation. If you are using DS4Windows or Handheld Companion, you most likely already have VigemBus installed and can skip the installation.
 
+<img width="490" height="388" alt="image" src="https://github.com/user-attachments/assets/1bcaa01f-5b57-44db-9415-0438c8d9c364" />
+
 Here is the link to the official ViGEmBus Github:
 
 https://github.com/nefarius/ViGEmBus/releases
