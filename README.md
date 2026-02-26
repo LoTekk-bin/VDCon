@@ -50,6 +50,10 @@ Only some parts of the UI are currently usable and will be made functional in fu
 
 <img width="636" height="981" alt="image" src="https://github.com/user-attachments/assets/1bfa47cf-a2e9-4e0e-9034-c605678bfe65" />
 
+To use the F10 key on your keyboard, you first have to press the F10 button in the top left corner. However, this is a bug that will be removed in the future.
+
+<img width="83" height="62" alt="image" src="https://github.com/user-attachments/assets/db18cc30-d3e0-4b43-83fe-252c1fcdd1b9" />
+
 ---
 
 in arbeit
