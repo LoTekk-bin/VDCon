@@ -1,5 +1,4 @@
-# <img width="204" height="204" alt="VDC-icon" src="https://github.com/user-attachments/assets/4d3642da-be92-4bc0-9f4f-a2e98f53e21b" />
-VDCon
+# <img width="20" height="20" alt="VDC-icon" src="https://github.com/user-attachments/assets/4d3642da-be92-4bc0-9f4f-a2e98f53e21b" /> VDCon
 
 ---
 
