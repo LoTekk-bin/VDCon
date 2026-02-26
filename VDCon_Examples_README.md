@@ -13,3 +13,7 @@ Alternatively, you can enhance the UI by embedding external images or programs.
 ---
 
 Generally, OBS offers a lot of possibilities. If you're not familiar with OBS, it's recommended that you watch a tutorial beforehand. Once you know OBS well enough, virtually any UI is possible.
+
+---
+
+
