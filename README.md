@@ -3,7 +3,7 @@
 
 ---
 
-# <img width="50" height="25" alt="BetaV" src="https://github.com/user-attachments/assets/a4b8a9a4-078e-4135-bce7-2e645e439a88" />   Virtual Device Controller or VDCon is a lightweight controller remapping tool with OBS canvas integration.
+# Virtual Device Controller or VDCon is a lightweight controller remapping tool with OBS canvas integration.   <img width="50" height="25" alt="BetaV" src="https://github.com/user-attachments/assets/a4b8a9a4-078e-4135-bce7-2e645e439a88" />
 
 ![VDCon-Animation](https://github.com/user-attachments/assets/3ab694b2-6c7e-47d6-956a-3c1d706ffd84)
 
