@@ -6,7 +6,7 @@ You have a local multiplayer mod for a game that displays the two views in a com
 
 With OBS, you can correct the UI and customize it as desired, for example, by displaying a small preview of the other player's screen in the bottom corner.
 
-https://github.com/user-attachments/assets/52d76417-d5c7-428b-9225-7fd95b93b7ad
+![ezgif-88616bafa5fd4c37](https://github.com/user-attachments/assets/275c156e-915d-41ea-accd-696872906d14)
 
 Or, if you have a local multiplayer game that's spread across multiple windows, you can merge them into one window using OBS.
 
