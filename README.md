@@ -1,6 +1,4 @@
-# <img width="50" height="50" alt="VDC-icon" src="https://github.com/user-attachments/assets/4d3642da-be92-4bc0-9f4f-a2e98f53e21b" /> 
-<img width="50" height="25" alt="BetaV" src="https://github.com/user-attachments/assets/a4b8a9a4-078e-4135-bce7-2e645e439a88" /> 
-VDCon 
+# <img width="50" height="50" alt="VDC-icon" src="https://github.com/user-attachments/assets/4d3642da-be92-4bc0-9f4f-a2e98f53e21b" />   <img width="50" height="25" alt="BetaV" src="https://github.com/user-attachments/assets/a4b8a9a4-078e-4135-bce7-2e645e439a88" />   VDCon 
 
 
 ---
