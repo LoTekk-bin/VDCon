@@ -1,5 +1,6 @@
 # <img width="50" height="50" alt="VDC-icon" src="https://github.com/user-attachments/assets/4d3642da-be92-4bc0-9f4f-a2e98f53e21b" />   VDCon 
 
+It is primarily designed to optimize multiplayer streaming scenarios by enabling customization of game UIs via OBS. Maximum compatibility is achieved through Xbox 360 controller emulation. The software also allows the creation and switching of gamepad profiles for up to four simultaneous players.
 
 ---
 
