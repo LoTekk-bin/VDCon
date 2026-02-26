@@ -8,7 +8,6 @@ With OBS, you can correct the UI and customize it as desired, for example, by di
 ![ezgif-88616bafa5fd4c37](https://github.com/user-attachments/assets/275c156e-915d-41ea-accd-696872906d14)
 
 Or, if you have a local multiplayer game that's spread across multiple windows, you can merge them into one window using OBS.
-
 Alternatively, you can enhance the UI by embedding external images or programs.
 
 ---
