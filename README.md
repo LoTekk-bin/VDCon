@@ -42,6 +42,10 @@ To integrate OBS, all you need to do is start the virtual camera.
 
 # It has a simple to use user interface.
 
+To use the F10 key on your keyboard, you first have to press the F10 button in the top left corner. However, this is a bug that will be removed in the future.
+
+<img width="83" height="62" alt="image" src="https://github.com/user-attachments/assets/db18cc30-d3e0-4b43-83fe-252c1fcdd1b9" />
+
 Here you can manage and emulate up to four virtual gamepads.
 
 <img width="634" height="979" alt="image" src="https://github.com/user-attachments/assets/5fc28d8f-a6fa-4017-b3dc-24f7318250be" />
@@ -53,10 +57,6 @@ The controller displays the output from the virtual gamepad, which is currently 
 Only some parts of the UI are currently usable and will be made functional in future updates.
 
 <img width="636" height="981" alt="image" src="https://github.com/user-attachments/assets/1bfa47cf-a2e9-4e0e-9034-c605678bfe65" />
-
-To use the F10 key on your keyboard, you first have to press the F10 button in the top left corner. However, this is a bug that will be removed in the future.
-
-<img width="83" height="62" alt="image" src="https://github.com/user-attachments/assets/db18cc30-d3e0-4b43-83fe-252c1fcdd1b9" />
 
 ---
 
