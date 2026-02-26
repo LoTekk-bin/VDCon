@@ -1,4 +1,4 @@
-# If you're not quite sure how to practically use VDCON, here are a few examples.
+# If you're not quite sure how to practically use VDCon, here are a few examples.
 
 ---
 
