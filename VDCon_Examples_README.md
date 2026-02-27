@@ -10,6 +10,10 @@ With OBS, you can correct the UI and customize it as desired, for example, by di
 Or, if you have a local multiplayer game that's spread across multiple windows, you can merge them into one window using OBS.
 Alternatively, you can enhance the UI by embedding external images or programs.
 
+<img width="133" height="75" alt="image" src="https://github.com/user-attachments/assets/f9120f13-db2a-4a6b-b34d-0382ee70771b" />
+
+<img width="46" height="40" alt="image" src="https://github.com/user-attachments/assets/5fd26996-1bc9-4c16-9272-d24208e759ad" />
+
 ---
 
 Generally, OBS offers a lot of possibilities. If you're not familiar with OBS, it's recommended that you watch a tutorial beforehand. Once you know OBS well enough, virtually any UI is possible.
