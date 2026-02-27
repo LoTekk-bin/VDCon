@@ -41,5 +41,9 @@ VDCon acts as a bridge to simplify the general setup, should you need to switch 
 
 <img width="264" height="72" alt="image" src="https://github.com/user-attachments/assets/59cad707-c267-425e-b378-f1447c6c8ba8" />
 
+---
 
-In addition to the direct integration of OBS, which allows you to customize the UI without switching programs, OBS supports the ability to use many presets, which can always be easily switched using keybinds.
+As already mentioned, it also features direct integration with OBS, allowing you to customize the UI without switching programs. 
+OBS supports the ability to use many presets, which can always be easily switched using keybinds.
+<img width="178" height="42" alt="image" src="https://github.com/user-attachments/assets/5d70a9c5-a116-4488-8311-67f18c5c0b32" />
+
