@@ -19,6 +19,8 @@ Generally, OBS offers a lot of possibilities. If you're not familiar with OBS, i
 (Not yet usable) The profile system allows you to easily and quickly change your entire controller mapping, for example, if you switch games. 
 The profiles are saved as .json files in the profile folder and can therefore be manually edited or shared with friends.
 
+<img width="670" height="55" alt="image" src="https://github.com/user-attachments/assets/620d55ac-ecfd-4980-85ef-7c63bd4387cf" />
+
 ---
 
 The remapped inputs are transferred to an Xbox 360 controller enabled by VIGem. 
