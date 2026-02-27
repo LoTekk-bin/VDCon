@@ -35,3 +35,11 @@ IMPORTANT: The virtual Xbox 360 controller will not be active until you have che
 <img width="161" height="36" alt="image" src="https://github.com/user-attachments/assets/64fcf162-6104-4ef7-acf4-6e79923748a9" />
 <img width="163" height="37" alt="image" src="https://github.com/user-attachments/assets/116cc6c8-1ae2-4737-94c4-2a493d706baa" />
 
+---
+With remote desktop software like Parsec, you can play a local multiplayer games online with friends. 
+VDCon acts as a bridge to simplify the general setup, should you need to switch games, etc. 
+
+<img width="264" height="72" alt="image" src="https://github.com/user-attachments/assets/59cad707-c267-425e-b378-f1447c6c8ba8" />
+
+
+In addition to the direct integration of OBS, which allows you to customize the UI without switching programs, OBS supports the ability to use many presets, which can always be easily switched using keybinds.
