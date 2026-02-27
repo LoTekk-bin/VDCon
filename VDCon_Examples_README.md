@@ -23,3 +23,7 @@ The profiles are saved as .json files in the profile folder and can therefore be
 
 The remapped inputs are transferred to an Xbox 360 controller enabled by VIGem. 
 IMPORTANT: The virtual Xbox 360 controller will not be active until you have checked the box next to "Virtual Controller".
+
+<img width="161" height="36" alt="image" src="https://github.com/user-attachments/assets/64fcf162-6104-4ef7-acf4-6e79923748a9" />
+<img width="163" height="37" alt="image" src="https://github.com/user-attachments/assets/116cc6c8-1ae2-4737-94c4-2a493d706baa" />
+
