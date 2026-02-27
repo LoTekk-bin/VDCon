@@ -14,6 +14,8 @@ Alternatively, you can enhance the UI by embedding external images or programs.
 
 Generally, OBS offers a lot of possibilities. If you're not familiar with OBS, it's recommended that you watch a tutorial beforehand. Once you know OBS well enough, virtually any UI is possible.
 
+<img width="409" height="72" alt="image" src="https://github.com/user-attachments/assets/e190bf9a-5f4d-45df-be65-90594b3eb342" />
+
 ---
 
 (Not yet usable) The profile system allows you to easily and quickly change your entire controller mapping, for example, if you switch games. 
