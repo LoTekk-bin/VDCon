@@ -51,3 +51,10 @@ OBS supports the ability to use many presets, which can always be easily switche
 
 <img width="178" height="42" alt="image" src="https://github.com/user-attachments/assets/5d70a9c5-a116-4488-8311-67f18c5c0b32" />
 
+---
+
+To open and close the controller menu, press F10.
+You can also switch the window to full screen and back with F11.
+
+![ezgif-1a2468de8127ebee](https://github.com/user-attachments/assets/ce015e79-527d-4b51-a458-29e7a3237ef0)
+
